@@ -1,5 +1,5 @@
-# Sonophilia Amaral Review Page
+# Sonophilia Amaral Editorial Page
 
-Static review page for Rudolf Amaral's comments on the Sonophilia editorial draft.
+Static Sonophilia editorial page on Rudolf Amaral's Salzburg Salon.
 
 Published via GitHub Pages.
